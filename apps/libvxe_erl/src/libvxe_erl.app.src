@@ -1,5 +1,5 @@
 {application, libvxe_erl,
- [{description, "An OTP application"},
+ [{description, "An OTP application, but mainly my convenience functions"},
   {vsn, "0.1.0"},
   {registered, []},
   {mod, { libvxe_erl_app, []}},
